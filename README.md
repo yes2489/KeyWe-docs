@@ -1,8 +1,5 @@
-
-
 # 🥝 KeyWe - 시니어를 위한 원격 키오스크 주문 지원 플랫폼
-<img alt="KeyWeUser" src="/assets/keywe_user.png">
-<img alt="KeyWeLanding" src="/assets/keywe_landing.jpg">
+<img alt="KeyWeLanding" src="/assets/keywe_landing.png">
 
 ## 📅 프로젝트 정보
 - **기간**: 2025.01.06 ~ 2025.02.21 (7주)
@@ -32,15 +29,15 @@ KeyWe는 키오스크 사용이 어려운 **시니어**를 위해 **자녀 등 �
 
 ### 🧓 시니어 키오스크 대리 주문 요청
 키오스크에서 시니어가 대리 주문을 요청하는 화면입니다.   
-<img alt="시니어 대리 주문 요청" src="/assets/PreviewParents.gif">
+<img alt="시니어 대리 주문 요청" src="/assets/preview_parents.gif">
 
 ### 📱 자녀 원격 주문 진행
 자녀가 원격으로 키오스크와 연동된 화면을 통해 주문을 지원하는 화면입니다.   
-<img alt="자녀 원격 주문" src="/assets/PreviewChild.gif">
+<img alt="자녀 원격 주문" src="/assets/preview_child.gif">
 
 ### 🏪 원격 주문 진행 시 키오스크 화면
 자녀와 매칭된 후 매장 키오스크에서 보이는 화면입니다.  
-<img alt="키오스크 화면" src="/assets/ParentsMenu.jpg">
+<img alt="키오스크 화면" src="/assets/parents_menu.jpg">
 
 ## 🌐 서비스 구조
 <img alt="서비스 아키텍처" src="/assets/service_architecture_keywe.png" width="700">
